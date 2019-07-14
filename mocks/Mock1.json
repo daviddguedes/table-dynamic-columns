@@ -1,0 +1,52 @@
+{
+  "result": {
+    "columns": [
+      { "label": "Name", "key": "name" },
+      { "label": "Status", "key": "status" },
+      { "label": "City", "key": "city" },
+      { "label": "Age", "key": "age" },
+      { "label": "Genre", "key": "genre" },
+      { "label": "Phone", "key": "phone" }
+    ],
+    "rows": [
+      {
+        "name": {
+          "status": null,
+          "value": "Paul Gilbert",
+          "percent": null,
+          "label": "Name"
+        },
+        "status": {
+          "status": null,
+          "value": "Ready",
+          "percent": null,
+          "label": "Status"
+        },
+        "city": {
+          "status": null,
+          "value": "San Francisco",
+          "percent": null,
+          "label": "City"
+        },
+        "age": {
+          "status": null,
+          "value": "54",
+          "percent": null,
+          "label": "Age"
+        },
+        "genre": {
+          "status": null,
+          "value": "M",
+          "percent": null,
+          "label": "Genre"
+        },
+        "phone": {
+          "status": null,
+          "value": "+68239984433",
+          "percent": null,
+          "label": "Phone"
+        }
+      }
+    ]
+  }
+}
