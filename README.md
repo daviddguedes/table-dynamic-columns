@@ -7,6 +7,6 @@
 * npm install -D enzyme enzyme-adapter-react-16 sinon chai
 * add "import 'semantic-ui-css/semantic.css'" to your index.js file
 * cd src/ && git clone https://github.com/daviddguedes/table-dynamic-columns.git table
-* import table/examples/TableExample to your App.js
+* add "import TableExample from './table/examples/TableExample'" to your App.js
 * place the TableExample tag in your code
-* npm start
+* cd ../ && npm start
